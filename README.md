@@ -1,2 +1,2 @@
-# sublime-license
-Sublimne License
+# Sublime License
+### sublime-license
